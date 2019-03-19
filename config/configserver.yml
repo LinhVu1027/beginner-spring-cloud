@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-#          uri: https://github.com/ryanjbaxter/beginners-guide-to-spring-cloud
-#          searchPaths: spring-cloud-config
-          uri: file:///Users/AllenWalker/Desktop/onprocess/beginner-spring-cloud/spring-cloud-config
+          uri: https://github.com/LinhVu1027/beginner-spring-cloud
+          searchPaths: spring-cloud-config
+#          uri: file:///Users/AllenWalker/Desktop/onprocess/beginner-spring-cloud/spring-cloud-config
