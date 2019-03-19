@@ -1,0 +1,7 @@
+#server:
+#  port: 7070
+#name: Cloud
+
+spring:
+  application:
+    name: name

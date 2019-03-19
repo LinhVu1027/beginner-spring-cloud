@@ -1,0 +1,12 @@
+security.basic.enable: false
+management.security.enabled: false
+spring:
+  profiles:
+    active: git
+  cloud:
+    config:
+      server:
+        git:
+#          uri: https://github.com/ryanjbaxter/beginners-guide-to-spring-cloud
+#          searchPaths: spring-cloud-config
+          uri: file:///Users/AllenWalker/Desktop/onprocess/beginner-spring-cloud/spring-cloud-config
